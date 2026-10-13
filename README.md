@@ -1,5 +1,4 @@
-# Project Brief
-## Operations Hub
+# Project Brief | Operations Hub
 - Functions as an all-in-one work hub for learners navigating between lecture links, notepads, and timing.
 - Utilizes a pink theme
 
