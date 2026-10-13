@@ -2,6 +2,10 @@
 - Functions as an all-in-one work hub for learners navigating between lecture links, notepads, and timing.
 - Utilizes a pink theme
 
+### Assumptions:
+- Assumed user would feel comfortable with timer controls (start, pause, reset) + would be able to identify and differentiate each control.
+### Outcome:
+- User could ID controls, but naturally wanted to reuse start button for pause control.
 ### Next fix:
 - Implement a two-in-one start/pause button for timer.
 
